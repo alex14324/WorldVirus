@@ -15,7 +15,7 @@ We recommend running them in a VM which has no internet connection (or an intern
 
 ## Getting Started
 
-Close the repository with `git clone https://www.github.com/ytisf/theZoo`. Go to the directory and run `pip install --user -r requirements.txt`. This should install all latest requirements needed. In total can be "scripted" like so:
+Close the repository with `git clone https://www.github.com/alex14324/Worldvirus`. Go to the directory and run `pip install --user -r requirements.txt`. This should install all latest requirements needed. In total can be "scripted" like so:
 
 ```bash
 git clone https://www.github.om/alex14324/Worldvirus.git
